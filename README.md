@@ -32,3 +32,11 @@ To enhance user experience, the displayPDF function converts the uploaded file i
 The Streamlit layout is set to wide mode using st.set_page_config, ensuring a smooth and responsive user experience. The app runs as a standalone module (if __name__ == "__main__": main()), making it ready for deployment and usage.
 
 The main functionality of this project is to allow users to upload any pdfs and any research papers  documents in PDF format (with a page range of 15-20 pages), process them, and generate a summarized version of the content. It leverages a pre-trained language model for efficient text summarization and Streamlit to provide an intuitive and user-friendly interface. Users can seamlessly upload research papers and obtain concise, well-structured summaries, making it easier to extract key insights from lengthy documents.
+
+# output
+
+![Screenshot 2025-02-15 164600](https://github.com/user-attachments/assets/1fc77020-3d97-4cf5-bb14-ff144f6da296)
+
+
+
+![Screenshot 2025-02-15 164614](https://github.com/user-attachments/assets/034cc1f0-b1eb-4af6-887c-8eb6f48f8e93)
